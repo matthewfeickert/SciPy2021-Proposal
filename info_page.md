@@ -1,18 +1,19 @@
-# [SciPy 2020 Talk & Poster Presentations](https://www.scipy2020.scipy.org/talk-poster-presentations)
-
-SciPy 2020 talks will be July 8-10th. Share your work with our community!
+# [SciPy 2021 Talk & Poster Presentations](https://www.scipy2021.scipy.org/talk-poster-presentations)
 
 ## Specialized Tracks
 
 This year we are happy to announce two specialized tracks that run in parallel to the general conference track:
 
-* High Performance Python
-   - Once dominated by C and Fortran, Python is quickly making inroads into the world of high performance computing.
-   In this track we are interested in Python performance optimization, strategies for parallelism and scaling in Python, and methods to enable Python portability on many diverse architectures.
-   We invite participants to share their innovations, best practices, and pain points in this space.
-* Machine Learning and Data Science
-   - This special track is devoted to both the theory and the application of data science and machine learning.
-   That includes new open source tools and techniques for machine learning and data science, as well as novel discoveries in all fields of science made through the application of new or existing tools and techniques.
+* Data Visualization and Image Processing
+   - Imagery is a key component of all science -- whether one uses it to visualize and communicate scientific findings or whether the images themselves reveal important details about an experiment.
+   Image processing and data visualization are key tools for discovering and communicating insights with others at many levels.
+   Python has a number of packages to generate and analyze figures and images.
+   This special track is to discuss advances in data visualization and image processing and highlight innovations that have enhanced the data-sharing experience within and across disciplines and with the general public.
+
+* Scientific Applications of Machine Learning and Data Science
+   - This track is focused on how theory, tools, and methods in data science and machine learning can be applied to scientific problems.
+   This includes the application of new open source tools and techniques for machine learning and data science, as well as novel discoveries in all fields of science made through the application of new or existing tools and techniques.
+   This track will bring together developers, practitioners, and scientists to discuss how these tools and methods can be applied to a variety of scientific problems.
 
 ## Domain-specific Mini-symposia
 
@@ -20,31 +21,29 @@ Introduced in 2012, mini-symposia are held to discuss scientific computing appli
 Their goal is to promote industry specific libraries and tools, and gather people with similar interests for discussions.
 
 Mini-symposia on the following topics will take place this year:
-- Astronomy and Astrophysics
-- Biology and Bioinformatics
-- Materials Science
-- Earth, Ocean, Geo and Atmospheric Science
-- SciPy Tools
+- Physics and Astronomy
+- Biology and Neuroscience
+- Computational Social Science and Digital Humanities
+- Earth, Ocean, Geo, and Atmospheric Science
 - Maintainers Track
+- SciPy Tools
 
 ## Important Talk & Poster Dates
 
-* Dec 10, 2019:
-   - Talk & Poster call for proposals opens
-* Feb 11, 2020:
+* Feb 16, 2021:
    - Talk & Poster submission deadline
-* April 13, 2020
+* April 30, 2021
    - General conference speakers announced
-* May 22, 2020:
+* May 28, 2021:
    - Proceedings first draft submissions due
-* Jul 8-10, 2020:
-   - SciPy 2020 General Conference
-* Jul 30, 2020:
-   - SciPy 2020 final Proceedings published
+* Jul 14-16, 2021:
+   - SciPy 2021 Virtual Conference
+* Jul 31, 2021:
+   - SciPy 2021 final Proceedings published
 
 ## Planning for your proposal submission?
 
-Proposals must be submitted by **February 11, 2020**.
+Proposals must be submitted by **February 11, 2021**.
 Here's what you'll need for a submission:
 
 ### The Short Summary
@@ -113,7 +112,7 @@ If you have questions about the process, feel free to reach out to the Program C
 
 The Proceedings Submission
 
-Once your talk is accepted, presenters have the option to submit up to an 8 page paper by May 22nd for the SciPy2020 Proceedings.
+Once your talk is accepted, presenters have the option to submit up to an 8 page paper by May 22nd for the SciPy2021 Proceedings.
 The paper should follow the same guidelines as the abstract/description but elaborate on the details to help thoroughly understand the material.
 
 As in previous years, these papers will be reviewed using an open dialog that takes place on github - pull requests over in the proceedings repo https://github.com/scipy-conference/scipy_proceedings.
