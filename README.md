@@ -107,14 +107,17 @@ Regardless of audience background, they will see how they can use modern machine
 
 #### Notes
 
-Though pyhf is a tool from high energy physics, out of the available mini-symposium at SciPy 2021 it best fits under Astronomy and Astrophysics, as the techniques can be of general interest to the broader physics community.
-
 - pyhf on GitHub: https://github.com/scikit-hep/pyhf
 - pyhf on PyPI: https://pypi.org/project/pyhf/
-- pyhf documentation: https://scikit-hep.org/pyhf/
-- List of talks given on pyhf: https://scikit-hep.org/pyhf/talks.html
-   - Most recent and relevant: Matthew Feickert. pyhf: pure-Python implementation of HistFactory. PyHEP 2019 Workshop, October 2019. https://indico.cern.ch/event/833895/contributions/3577824/
-- List of scientific publications that have used pyhf: https://scikit-hep.org/pyhf/citations.html
+- pyhf documentation: https://pyhf.readthedocs.io/
+- List of talks given on pyhf: https://pyhf.readthedocs.io/en/v0.6.0/outreach.html#presentations
+   - Most recent and relevant: Matthew Feickert. pyhf: a pure Python statistical fitting library with tensors and autograd. SciPy 2020, July 2020. https://doi.org/10.25080/Majora-342d178e-023
+- List of scientific publications that have used pyhf: https://pyhf.readthedocs.io/en/v0.6.0/citations.html
+
+
+- funcX on GitHub: https://github.com/funcx-faas/funcx
+- funcX on PyPI: https://pypi.org/project/funcx/
+- funcX documentation: https://funcx.readthedocs.io/en/latest/index.html
 
 > Word count including hyperlinks: ???
 
