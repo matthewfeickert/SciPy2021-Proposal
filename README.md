@@ -1,5 +1,17 @@
 # [SciPy 2021](https://www.scipy2021.scipy.org/) Submission Instructions
 
+## Track
+
+- [ ] SciPy 2021 Tutorials
+- [ ] Data Visualization and Image Processing
+- [ ] Scientific Applications of Machine Learning & Data Science
+- [ ] Computational Social Science and Digital Humanities
+- [ ] Biology and Neuroscience
+- [ ] Earth, Ocean, Geo, & Atmospheric Science
+- [ ] General
+- [ ] Maintainers Track
+- [x] Physics & Astronomy
+
 ## Author 1
 
 - First Name: Matthew
@@ -30,12 +42,22 @@
 - Web page: https://giordonstark.com/?utm_source=scipy&utm_medium=proposal&utm_campaign=2021
 - Corresponding Author: No
 
+## Author 4
+
+- First Name: Ben
+- Last Name: Galewsky
+- Email: bengal1 at-no-spam illinois.edu
+- Country: United States
+- Organization: National Center for Supercomputing Applications
+- Web page: https://bengalewsky.github.io/
+- Corresponding Author: No
+
 ## Title and Abstract
 > The title and the abstract should be entered as plain text, they should not contain HTML elements.
 
 ### Title
 
-pyhf: a pure Python statistical fitting library with tensors and autograd
+**TODO: TITLE**
 
 ### Abstract
 
@@ -94,7 +116,7 @@ Though pyhf is a tool from high energy physics, out of the available mini-sympos
    - Most recent and relevant: Matthew Feickert. pyhf: pure-Python implementation of HistFactory. PyHEP 2019 Workshop, October 2019. https://indico.cern.ch/event/833895/contributions/3577824/
 - List of scientific publications that have used pyhf: https://scikit-hep.org/pyhf/citations.html
 
-> Word count including hyperlinks: 508
+> Word count including hyperlinks: ???
 
 ## Keywords
 > Type a list of keywords (also known as key phrases or key terms), one per line to characterize your submission. You should specify at least three keywords.
@@ -108,33 +130,17 @@ Though pyhf is a tool from high energy physics, out of the available mini-sympos
 - PyTorch
 - JAX
 - Auto-Differentiation
+- funcX
 
 ## Other Information and Files
-
-### Please select the track or mini-symposium for your submission.
-Select the category below that best fit your topic.
-
-- [ ] General
-- [ ] High Performance Python
-- [ ] Machine Learning and Data Science
-- [x] Astronomy and Astrophysics
-- [ ] Biology and Bioinformatics
-- [ ] Materials Science
-- [ ] Earth, Ocean, Geo and Atmospheric Science
-- [ ] SciPy Tools (5 minute mini presentations)
-- [ ] Maintainers Track (Submissions will be shared with Maintainer Track Co-Chairs, but will not be part of the formal review process.
 
 ### Short Summary
 > A brief description which will appear in the online program and give attendees a basic sense of your talk.
 > This should be around 100 words or less
 
-High Energy Physics analyses are performed with statistical computations to determine the compatibility of the reported results with the existing Standard Model.
-In many cases, a binned, asymptotic likelihood fit is performed following a mathematical p.d.f. template called HistFactory.
-The pyhf library is a pure-Python implementation of that statistical model for multi-bin histogram-based analysis and asymptotic interval estimation.
-pyhf supports modern computational graph libraries such as TensorFlow and PyTorch to make use of features such as auto-differentiation and GPU acceleration.
-Additionally, pyhf's JSON model specification has enabled the first open publication of full likelihoods from an LHC experiment.
+**TODO**
 
-> Word count: 98
+> Word count: ???
 
 ### Type of Submission.
 Please indicate whether you would like to be considered for a talk slot or poster slot.
@@ -154,11 +160,11 @@ If you do not wish to join, leave the below checkboxes blank.
 Participation will have no impact on whether or not your submission is accepted.
 
 - [x] General
-- [ ] High Performance Python
-- [x] Data Driven Discoveries
-- [x] Astronomy and Astrophysics
-- [ ] Biology and Bioinformatics
-- [ ] Materials Science
+- [ ] Data Visualization and Image Processing
+- [x] Scientific Applications of Machine Learning and Data Science
+- [x] Physics and Astronomy
+- [ ] Biology and Neuroscience
+- [ ] Computational Social Science and Digital Humanities
 - [ ] Earth, Ocean, Geo and Atmospheric Science
 
 ### Paper (optional).
