@@ -57,7 +57,7 @@
 
 ### Title
 
-**TODO: TITLE**
+Distributed statistical inference with pyhf enabled through funcX
 
 ### Abstract
 
@@ -113,7 +113,6 @@ Regardless of audience background, they will see how they can use modern machine
 - List of talks given on pyhf: https://pyhf.readthedocs.io/en/v0.6.0/outreach.html#presentations
    - Most recent and relevant: Matthew Feickert. pyhf: a pure Python statistical fitting library with tensors and autograd. SciPy 2020, July 2020. https://doi.org/10.25080/Majora-342d178e-023
 - List of scientific publications that have used pyhf: https://pyhf.readthedocs.io/en/v0.6.0/citations.html
-
 
 - funcX on GitHub: https://github.com/funcx-faas/funcx
 - funcX on PyPI: https://pypi.org/project/funcx/
