@@ -43,7 +43,7 @@ Mini-symposia on the following topics will take place this year:
 
 ## Planning for your proposal submission?
 
-Proposals must be submitted by **February 11, 2021**.
+Proposals must be submitted by **February 16, 2021**.
 Here's what you'll need for a submission:
 
 ### The Short Summary
@@ -74,7 +74,7 @@ In the unfortunate event that your proposal is not accepted, please keep in mind
 If your talk is on a particular Python package or piece of software, it should useful to more than a niche group.
 * Include links to source code, articles, blog posts, or other writing that adds context to the presentation.
 * If you've given a talk, tutorial, or other presentation before, include that information as well as a link to slides or a video if they're available.
-* SciPy talks are generally 25 minutes with 2-3 minutes for questions.
+* **SciPy talks are generally 25 minutes** with 2-3 minutes for questions.
 Please keep the length of time in mind as you structure your outline.
 * Your talk should not be a commercial for your company’s product.
 However, you are welcome to talk about how your company solved a problem, or notable open-source projects that may benefit attendees.
