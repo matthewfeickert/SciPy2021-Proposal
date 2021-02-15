@@ -71,12 +71,12 @@ Links to project websites, source code repositories, figures, full papers, and e
 
 #### Introduction and Motivation
 
-Researchers in High Energy Physics (HEP) and other fields are encouraged by their funding bodies to take advantage of the powerful High Performance Computing (HPC) facilities constructed by those funders.
-These are powerful machines such as Theta at Argonne National Laboratory with 280,000 cores and 24 hardware accelerated GPUs.
+Researchers in High Energy Physics (HEP) and other fields are encouraged by their funding bodies to take advantage of the High Performance Computing (HPC) facilities constructed by those funders.
+These are capable machines such as Theta at Argonne National Laboratory with 280,000 cores and 192 hardware accelerated GPUs.
 While powerful, these architectures do not fit easily into the Python compute model.
 Users must construct batch jobs that are run when CPU time is available.
 The results are stored on the file system and must be stitched back together once all of the jobs have completed.
-On many of these systems, Python is considered a second class citizen and configuring modern Python libraries to run on them can be a tedious task and require specialized expertise.
+On many of these systems, Python tooling lags the current state of the art and configuring modern Python libraries to run on them can be a tedious task and require specialized expertise.
 
 In HEP a core component of analysis of data collected at the Large Hadron Collider (LHC) is performing statistical inference for binned models to extract physics information.
 The fitting of multiple different hypotheses for new physics signatures (signals) considered in a typical analysis is a problem that lends itself easily to parallelization, but is hampered on HPC environments by the setup and tooling required, which can be very difficult to master.
