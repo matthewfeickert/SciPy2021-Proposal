@@ -135,6 +135,7 @@ Regardless of audience background, they will learn how to extend the normal scie
 - Auto-Differentiation
 - funcX
 - Functions as a Service
+- High Performance Computing
 
 ## Other Information and Files
 
