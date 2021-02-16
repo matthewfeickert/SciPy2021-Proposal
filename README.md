@@ -81,7 +81,7 @@ On many of these systems, Python tooling lags the current state of the art and c
 In HEP a core component of analysis of data collected at the Large Hadron Collider (LHC) is performing statistical inference for binned models to extract physics information.
 The fitting of multiple different hypotheses for new physics signatures (signals) is a computational problem that lends itself easily to parallelization, but is hampered on HPC environments by the additional tooling overhead required, which can be very difficult to master.
 The statistical fitting tools used in HEP have traditionally been implemented in C++, but in recent years pyhf, a pure-Python library with automatic differentiation and hardware acceleration, has grown in use for the statistical inference problems described.
-Through use of funcX, a pure-Python high performance function serving system designed to orchestrate scientific workloads across heterogeneous computing resources, pyhf can be orchestrated to become a highly scalable (fitting) function as a service (FaaS) on HPCs.
+Through use of funcX, a pure-Python high performance function serving system designed to orchestrate scientific workloads across heterogeneous computing resources, pyhf can be used as a highly scalable (fitting) function as a service (FaaS) on HPCs.
 
 
 #### Combined performance gain
