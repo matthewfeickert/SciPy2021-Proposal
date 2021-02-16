@@ -76,7 +76,7 @@ These facilities include capable machines such as Theta at Argonne National Labo
 While powerful, these architectures do not easily support the Python compute model.
 Users must construct, submit batch jobs to a queue which get executed when compute time is available.
 The results are stored on the file system and must be stitched back together once all of the jobs have completed.
-On many of these systems, Python tooling lags the current state of the art and configuring modern Python libraries to run on them can be a tedious task and require specialized expertise.
+On many of these systems, Python tooling lags the current state of the art and configuring modern Python libraries to use HPCs can be a tedious task and require expertise.
 
 In HEP a core component of analysis of data collected at the Large Hadron Collider (LHC) is performing statistical inference for binned models to extract physics information.
 The fitting of multiple different hypotheses for new physics signatures (signals) considered in a typical analysis is a problem that lends itself easily to parallelization, but is hampered on HPC environments by the additional tooling overhead required, which can be very difficult to master.
