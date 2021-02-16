@@ -88,7 +88,7 @@ Through use of funcX, a pure-Python high performance function serving system des
 
 Through adoption of open source "tensor" computational Python libraries, pyhf is able to leverage tensor calculations to outperform the traditional C++ implementations on data from real LHC analyses.
 funcX is able to create and register a service endpoint on HPC systems that interfaces with native schedulers.
-End users are able to register functions through a Python API and then _scalefully_ execute workloads, with demonstrated use of scaling to more than 100,000 workers.
+End users are able to register functions through a Python API and then scalebly execute workloads, with demonstrated use of scaling to more than 100,000 workers.
 We have demonstrated use of funcX to orchestrate pyhf to simultaneously fit 125 signal hypotheses in the parameter space of a published LHC physics analysis with a wall time of under 3 minutes.
 The combination of pyhf and funcX reduces a common problem in HEP analyses that would traditionally take multiple hours and bespoke scheduling to an on-demand (fitting) FaaS, offering reduced time to insight and inference.
 
