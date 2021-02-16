@@ -72,7 +72,7 @@ Links to project websites, source code repositories, figures, full papers, and e
 #### Introduction and Motivation
 
 Researchers in High Energy Physics (HEP) and other fields are encouraged by their funding bodies to take advantage of the High Performance Computing (HPC) facilities constructed at various institutions.
-These HPC facilities include capable machines such as Theta at Argonne National Laboratory with 280,000 cores and 192 hardware accelerated GPUs.
+These facilities include capable machines such as Theta at Argonne National Laboratory with 280,000 cores and 192 hardware-accelerated GPUs.
 While powerful, these architectures do not easily support the Python compute model.
 Users must construct, submit batch jobs to a queue which get executed when compute time is available.
 The results are stored on the file system and must be stitched back together once all of the jobs have completed.
