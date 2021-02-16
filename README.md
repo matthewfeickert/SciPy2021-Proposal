@@ -135,9 +135,10 @@ Regardless of audience background, they will learn how to extend the normal scie
 - Fitting
 - Optimization
 - Auto-Differentiation
-- funcX
 - Functions as a Service
 - High Performance Computing
+- pyhf
+- funcX
 
 ## Other Information and Files
 
