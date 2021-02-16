@@ -108,21 +108,21 @@ Regardless of audience background, they will learn how to extend the normal scie
 
 #### Notes
 
-- pyhf on GitHub: https://github.com/scikit-hep/pyhf
-- pyhf on PyPI: https://pypi.org/project/pyhf/
-- pyhf documentation: https://pyhf.readthedocs.io/
-- List of talks given on pyhf: https://pyhf.readthedocs.io/en/v0.6.0/outreach.html#presentations
+* pyhf on GitHub: https://github.com/scikit-hep/pyhf
+* pyhf on PyPI: https://pypi.org/project/pyhf/
+* pyhf documentation: https://pyhf.readthedocs.io/
+* List of talks given on pyhf: https://pyhf.readthedocs.io/en/v0.6.0/outreach.html#presentations
    - Most recent and relevant: Matthew Feickert. pyhf: a pure Python statistical fitting library with tensors and autograd. SciPy 2020, July 2020. https://doi.org/10.25080/Majora-342d178e-023
-- List of scientific publications that have used pyhf: https://pyhf.readthedocs.io/en/v0.6.0/citations.html
+* List of scientific publications that have used pyhf: https://pyhf.readthedocs.io/en/v0.6.0/citations.html
 
-- funcX on GitHub: https://github.com/funcx-faas/funcx
-- funcX on PyPI: https://pypi.org/project/funcx/
-- funcX documentation: https://funcx.readthedocs.io/
-- List of talks given on funcX: https://funcx.org/publications.html
+* funcX on GitHub: https://github.com/funcx-faas/funcx
+* funcX on PyPI: https://pypi.org/project/funcx/
+* funcX documentation: https://funcx.readthedocs.io/
+* List of talks given on funcX: https://funcx.org/publications.html
    - Most relevant: K. Chard. funcX: A Federated Function Serving Fabric for Science https://funcx.org/presentations/20-8-funcX-Linea.pdf
-- List of scientific publications that have used funcX: https://funcx.org/publications.html
+* List of scientific publications that have used funcX: https://funcx.org/publications.html
 
-- Talks related to pyhf and funcX:
+* Talks related to pyhf and funcX:
    - Matthew Feickert. Fitting and Statistical Inference as a Service, IRIS-HEP Workshop on Portable Inference, December 2020. https://indico.cern.ch/event/972791/contributions/4121109/
 
 > Word count excluding Notes section: 520
