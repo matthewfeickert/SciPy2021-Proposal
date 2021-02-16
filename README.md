@@ -133,6 +133,7 @@ Regardless of audience background, they will learn how to extend the normal scie
 - Physics
 - Statistics
 - Fitting
+- Optimization
 - Auto-Differentiation
 - funcX
 - Functions as a Service
