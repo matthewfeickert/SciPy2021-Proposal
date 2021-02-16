@@ -118,8 +118,9 @@ Regardless of audience background, they will learn how to extend the normal scie
 - funcX on GitHub: https://github.com/funcx-faas/funcx
 - funcX on PyPI: https://pypi.org/project/funcx/
 - funcX documentation: https://funcx.readthedocs.io/en/latest/index.html
-- List of talks given on funcX:
-   - Most relevant: funcX: A Federated Function Serving Fabric for Science https://pdfs.semanticscholar.org/a84e/5a42802d91636fe0e16329b5ca3f8087bc60.pdf
+- List of talks given on funcX: https://funcx.org/publications.html
+   - Most relevant: K. Chard. funcX: A Federated Function Serving Fabric for Science https://funcx.org/presentations/20-8-funcX-Linea.pdf
+- List of scientific publications that have used funcX: https://funcx.org/publications.html
 
 - Talks related to pyhf and funcX:
    - Matthew Feickert. Fitting and Statistical Inference as a Service, IRIS-HEP Workshop on Portable Inference, December 2020. https://indico.cern.ch/event/972791/contributions/4121109/
