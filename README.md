@@ -117,7 +117,7 @@ Regardless of audience background, they will learn how to extend the normal scie
 
 - funcX on GitHub: https://github.com/funcx-faas/funcx
 - funcX on PyPI: https://pypi.org/project/funcx/
-- funcX documentation: https://funcx.readthedocs.io/en/latest/index.html
+- funcX documentation: https://funcx.readthedocs.io/
 - List of talks given on funcX: https://funcx.org/publications.html
    - Most relevant: K. Chard. funcX: A Federated Function Serving Fabric for Science https://funcx.org/presentations/20-8-funcX-Linea.pdf
 - List of scientific publications that have used funcX: https://funcx.org/publications.html
