@@ -27,7 +27,7 @@
 - First Name: Lukas
 - Last Name: Heinrich
 - Email: lukas.heinrich at-no-spam cern.ch
-- Country: Germany
+- Country: Switzerland
 - Organization: CERN
 - Web page: http://www.lukasheinrich.com/
 - Corresponding Author: No
@@ -134,7 +134,7 @@ Regardless of audience background, they will learn how to extend the normal scie
 - Statistics
 - Fitting
 - Optimization
-- Auto-Differentiation
+- Automatic differentiation
 - Functions as a Service
 - High Performance Computing
 - pyhf
