@@ -125,7 +125,7 @@ Regardless of audience background, they will learn how to extend the normal scie
 - Talks related to pyhf and funcX:
    - Matthew Feickert. Fitting and Statistical Inference as a Service, IRIS-HEP Workshop on Portable Inference, December 2020. https://indico.cern.ch/event/972791/contributions/4121109/
 
-> Word count excluding Notes section: 523
+> Word count excluding Notes section: 524
 
 ## Keywords
 > Type a list of keywords (also known as key phrases or key terms), one per line to characterize your submission. You should specify at least three keywords.
