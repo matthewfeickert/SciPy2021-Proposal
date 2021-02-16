@@ -57,7 +57,7 @@
 
 ### Title
 
-Distributed statistical inference with pyhf enabled through funcX
+Distributed statistical inference with pyhf powered by funcX
 
 ### Abstract
 
@@ -71,17 +71,17 @@ Links to project websites, source code repositories, figures, full papers, and e
 
 #### Introduction and Motivation
 
-Researchers in High Energy Physics (HEP) and other fields are encouraged by their funding bodies to take advantage of the High Performance Computing (HPC) facilities constructed by those funders.
-These are capable machines such as Theta at Argonne National Laboratory with 280,000 cores and 192 hardware accelerated GPUs.
-While powerful, these architectures do not fit easily into the Python compute model.
+Researchers in High Energy Physics (HEP) and other fields are encouraged by their funding bodies to take advantage of the High Performance Computing (HPC) facilities constructed at various institutions.
+These HPC facilities include capable machines such as Theta at Argonne National Laboratory with 280,000 cores and 192 hardware accelerated GPUs.
+While powerful, these architectures do not easily support the Python compute model.
 Users must construct batch jobs that are run when CPU time is available.
 The results are stored on the file system and must be stitched back together once all of the jobs have completed.
 On many of these systems, Python tooling lags the current state of the art and configuring modern Python libraries to run on them can be a tedious task and require specialized expertise.
 
 In HEP a core component of analysis of data collected at the Large Hadron Collider (LHC) is performing statistical inference for binned models to extract physics information.
-The fitting of multiple different hypotheses for new physics signatures (signals) considered in a typical analysis is a problem that lends itself easily to parallelization, but is hampered on HPC environments by the setup and tooling required, which can be very difficult to master.
+The fitting of multiple different hypotheses for new physics signatures (signals) considered in a typical analysis is a problem that lends itself easily to parallelization, but is hampered on HPC environments by the additional tooling overhead required, which can be very difficult to master.
 The statistical fitting tools used in HEP have traditionally been implemented in C++, but in recent years pyhf, a pure-Python library with automatic differentiation and hardware acceleration, has grown in use for the statistical inference problems described.
-Through use of funcX, a pure-Python high performance function serving system designed to orchestrate scientific workloads across heterogeneous computing resources, pyhf can be orchestrated to become a highly scalable (fitting) function as a service (FaaS) on HPC.
+Through use of funcX, a pure-Python high performance function serving system designed to orchestrate scientific workloads across heterogeneous computing resources, pyhf can be orchestrated to become a highly scalable (fitting) function as a service (FaaS) on HPCs.
 
 
 #### Combined performance gain
@@ -90,7 +90,7 @@ Through adoption of open source "tensor" computational Python libraries, pyhf is
 funcX is able to create and register a service endpoint on HPC systems that interfaces with native schedulers.
 End users are able to register functions through a Python API and then scalebly execute workloads, with demonstrated use of scaling to more than 100,000 workers.
 We have demonstrated use of funcX to orchestrate pyhf to simultaneously fit 125 signal hypotheses in the parameter space of a published LHC physics analysis with a wall time of under 3 minutes.
-The combination of pyhf and funcX reduces a common problem in HEP analyses that would traditionally take multiple hours and bespoke scheduling to an on demand (fitting) FaaS, offering reduced time to insight and inference.
+The combination of pyhf and funcX reduces a common problem in HEP analyses that would traditionally take multiple hours and bespoke scheduling to an on-demand (fitting) FaaS, offering reduced time to insight and inference.
 
 #### Conclusions
 
@@ -144,7 +144,7 @@ Regardless of audience background, they will learn how to extend the normal scie
 > This should be around 100 words or less
 
 In High Energy Physics (HEP) there is motivation to perform statistical inference required for analysis of data from the Large Hadron Collider on High Performance Computing environments, which can pose problems with orchestration and efficient scheduling.
-The combination of the pure-Python libraries pyhf and funcX reduces the common problem in HEP analyses of performing statistical inference with binned models, that would traditionally take multiple hours and bespoke scheduling, to an on demand (fitting) function as a service that can scalable execute across workers in just a few minutes, offering reduced time to insight and inference.
+The combination of the pure-Python libraries pyhf and funcX reduces the common problem in HEP analyses of performing statistical inference with binned models, that would traditionally take multiple hours and bespoke scheduling, to an on-demand (fitting) function as a service that can scalable execute across workers in just a few minutes, offering reduced time to insight and inference.
 
 > Word count: 95
 
