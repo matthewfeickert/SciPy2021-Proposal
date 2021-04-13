@@ -15,18 +15,31 @@ The following are the reviews for the submission:
 
 ### Overall evaluation
 
-Thank you for submitting this proposed talk!
-I think its very interesting to see a Python implementation out perform a C++ one.
-While I was reading the proposal a few questions came to mind that you may want to address.
+NB: my domain of expertise was astronomy.
 
-* Does the Python implementation out perform C++ with numpy as the default backend?
-* GPU support is mentioned, but has pyhf been tested with CuPy?
-* What are the typical data sizes on disk and in-memory?
-* How are the datasets loaded? (backend dependent?)
+This talk would introduce:
 
-Additionally, I think it would be interesting to talk about potential applications outside of HEP.
-Also, please be sure to provide the meaning of abbreviations the first time they are mentioned, for example probability density functions (pdfs).
-This looks like it would be a great talk!
+1) pyhf, a library for simultaneous fitting of many models to binned data from high-energy physics experiments
+2) funcX, a library that eases interactions with queue-based HPC systems
+
+Here are my answers to the review questions on the scipy conference website:
+
+> Is the abstract clear?
+
+Yes. No jargon was used; I didn't need expertise in HEP.
+
+> Is the abstract complete?
+
+Yes.
+
+> Is the abstract compelling?
+
+Yes. I would attend this talk (and probably will).
+
+> How relevant, immediately useful, and novel is the topic?
+
+I probably could have used funcX during my first postdoc, which is to say that managing queue-scheduled computations with Python is immediately useful.
+The abstract makes the problem seem like low-hanging fruit for which the solution will be applicable to a large audience.
 
 ## Review 2
 
