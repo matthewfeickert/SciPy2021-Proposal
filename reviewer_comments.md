@@ -59,6 +59,20 @@ The talk the proposers gave at SciPy 2020 was good -- I am confident that this w
 
 ### Overall evaluation
 
+The authors present an alternative approach to perform statistical inference on HPC center based on a "function as a service" (FaaS) approach.
+The approach of developing services is already well established in the private sector (such as platform as a service in cloud computing) and has the potential to simplify the interaction process with large HPC facilities for scientists while allowing for careful optimizations by the programmers.
+
+The abstract is laid carefully and properly introduces all the concepts required for its understanding by a broad audience that extends outside of physics and astronomy.
+The abstract clearly states how it relates to the existing ecosystem, what novelty it brings and how it is structured.
+Finally, the "Combined Performance Gain" paragraph provides compelling evidence of the benefits of the FaaS approach and of the performance of pyhf.
+
+The project has already been presented at past Scipy conferences.
+Unfortunately, it is not obvious from the abstract how this talk would distinguish itself from past ones.
+Provided the authors manage to present a different perspective or new features compared to last year (and the activity on the public Github repository are encouraging in that direction), I am confident the talk would however be of high interest.
+
+Overall, this is a very good abstract that should be of high interest to the SciPy community.
+I am  in favor of accepting it.
+
 ## Review 4
 
 **Overall evaluation:** 3 (strong accept)
