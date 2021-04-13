@@ -101,3 +101,7 @@ In particular, and as the authors mention, "regardless of audience background, t
 **Overall evaluation:** 3 (strong accept)
 
 ### Overall evaluation
+
+The proposal clearly lays out who the talk is for (scientific Python users on HPC systems) and what the attendees will learn (extending scientific workflows to HPC using "function as a service".
+This seems especially relevant for many Python users in the research community, even beyond Physics and Astronomy.
+The main Python software packages mentioned in the abstract are pyhf and funcX, both of which seem like well-established projects.
