@@ -77,6 +77,12 @@ I am  in favor of accepting it.
 
 **Overall evaluation:** 3 (strong accept)
 
+The talk discusses how Physics High Performance Computing could take advantage from a Function as a Service infrastructure implemented via a pure-Python library.
+The abstract is well detailed and clearly identifies the objectives of the presentation.
+The described tools are well referenced  in the abstract and documented, proving a high level of maturity.
+The title of the presentation could benefit of a small reformulation for non-expert audience.
+HEP applications have been early users of HPC and the way they are ported on new architectures (GPU) and tools (Python) is a very interesting use case for the scipy community.
+
 ### Overall evaluation
 
 ## Review 5
