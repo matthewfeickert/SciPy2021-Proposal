@@ -43,13 +43,19 @@ The abstract makes the problem seem like low-hanging fruit for which the solutio
 
 ## Review 2
 
-**Overall evaluation:** 3 (strong accept)
+**Overall evaluation:** 2 (accept)
 
 ### Overall evaluation
 
+This talk focuses on making making Python-based calculations easier on HPC clusters.
+While the application in the proposal is high energy physics, I gather that it has potential applications in other domains.
+As long as proposers emphasize that broader applicability I think the talk will generate reasonably broad interest.
+There was considerable interest at SciPy 2020 in HPC and imagine that will be true again this year.
+The talk the proposers gave at SciPy 2020 was good -- I am confident that this will be also.
+
 ## Review 3
 
-**Overall evaluation:** 3 (strong accept)
+**Overall evaluation:** 2 (accept)
 
 ### Overall evaluation
 
